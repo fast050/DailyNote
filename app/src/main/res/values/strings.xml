@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daily Note</string>
+    <string name="EnableSettingKey">EnableNotification</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <SwitchPreference
+        android:key="@string/EnableSettingKey"
+        android:summaryOn="Remind notification is active"
+        android:summaryOff="Remind notification is disable"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        />
+</PreferenceScreen>
