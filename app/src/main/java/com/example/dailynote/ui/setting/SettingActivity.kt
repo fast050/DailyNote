@@ -10,6 +10,7 @@ class SettingActivity : AppCompatActivity() {
         setContentView(R.layout.activity_setting)
 
 
+
         supportFragmentManager
             .beginTransaction()
             .replace(R.id.settings, MySettingsFragment())
